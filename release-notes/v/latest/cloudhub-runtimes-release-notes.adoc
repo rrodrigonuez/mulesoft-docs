@@ -3,7 +3,7 @@
 
 These are the release notes for patches which are made to the Mule runtimes on CloudHub. In addition to these release notes, see the link:/release-notes/cloudhub-release-notes[CloudHub release notes] and complete link:/runtime-manager/cloudhub[CloudHub] documentation.
 
-== July 20, 2018
+== July 23, 2018
 
 4.1.2 Runtime Update:
 
